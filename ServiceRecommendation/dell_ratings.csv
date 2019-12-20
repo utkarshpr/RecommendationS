@@ -1,0 +1,455 @@
+Product type,UserID,Hardware Issue,Software Issue,Tickets Raised,serviceID,user_rating
+Keyboard,10,battery issue,lagging,7,5,4
+Mouse,1,battery issue,lagging,4,9,7
+Keyboard,14,no issue,lagging,10,6,5
+Mouse,15,no issue,no issue,6,8,7
+Desktop,11,no issue,lagging,1,6,6
+Keyboard,6,no issue,no issue,8,7,9
+Laptop,3,physical damage,no issue,10,4,9
+Mouse,17,physical damage,not responding,3,4,4
+Keyboard,8,no issue,not responding,5,4,4
+Keyboard,10,battery issue,no issue,1,7,8
+Laptop,13,physical damage,no issue,10,9,7
+Mouse,6,no issue,not responding,8,5,5
+Keyboard,14,physical damage,not responding,2,3,9
+Desktop,15,battery issue,not responding,3,1,7
+Keyboard,10,no issue,not responding,9,10,3
+Laptop,19,no issue,lagging,3,1,9
+Desktop,11,no issue,lagging,3,9,7
+Mouse,4,no issue,no issue,9,3,3
+Mouse,19,battery issue,no issue,3,5,9
+Laptop,10,overheating,not responding,6,8,2
+Laptop,20,physical damage,not responding,10,6,3
+Desktop,8,no issue,not responding,2,6,8
+Desktop,17,battery issue,not responding,8,2,1
+Keyboard,5,no issue,no issue,1,5,5
+Laptop,7,no issue,not responding,3,2,1
+Laptop,12,no issue,not responding,2,3,1
+Keyboard,1,no issue,not responding,1,3,8
+Laptop,1,no issue,not responding,8,7,8
+Keyboard,6,physical damage,lagging,3,7,7
+Keyboard,7,physical damage,no issue,3,3,6
+Keyboard,11,no issue,lagging,4,2,9
+Laptop,4,no issue,lagging,1,10,7
+Desktop,7,no issue,lagging,3,8,5
+Mouse,2,battery issue,not responding,10,5,4
+Desktop,20,overheating,lagging,5,4,3
+Keyboard,1,physical damage,no issue,2,10,4
+Headphones,14,no issue,not responding,3,5,8
+Mouse,3,battery issue,no issue,1,10,9
+Mouse,15,no issue,not responding,10,8,8
+Keyboard,2,battery issue,not responding,6,4,5
+Mouse,4,physical damage,no issue,8,4,1
+Mouse,14,no issue,lagging,9,8,9
+Mouse,6,physical damage,not responding,4,2,3
+Desktop,14,no issue,lagging,4,4,1
+Desktop,19,no issue,lagging,3,4,5
+Laptop,13,overheating,no issue,2,4,1
+Laptop,20,physical damage,no issue,4,10,2
+Desktop,17,no issue,lagging,7,2,6
+Desktop,15,physical damage,not responding,3,1,3
+Headphones,15,no issue,not responding,7,9,4
+Mouse,4,no issue,lagging,9,10,6
+Desktop,13,no issue,lagging,3,7,3
+Headphones,13,battery issue,no issue,10,2,1
+Keyboard,15,battery issue,no issue,2,7,5
+Desktop,19,battery issue,no issue,3,9,9
+Headphones,6,no issue,not responding,2,3,9
+Desktop,14,no issue,not responding,9,5,5
+Laptop,15,overheating,no issue,4,5,6
+Laptop,5,battery issue,lagging,5,6,3
+Laptop,7,overheating,no issue,2,9,10
+Headphones,6,battery issue,no issue,4,6,10
+Headphones,17,physical damage,not responding,8,1,6
+Mouse,6,no issue,no issue,4,1,10
+Desktop,12,no issue,not responding,8,8,1
+Laptop,12,overheating,not responding,7,9,10
+Mouse,15,battery issue,lagging,3,10,4
+Mouse,9,physical damage,no issue,3,1,1
+Headphones,15,physical damage,no issue,3,8,3
+Desktop,15,battery issue,not responding,7,1,10
+Laptop,16,no issue,lagging,10,1,8
+Desktop,20,no issue,lagging,1,8,5
+Desktop,15,overheating,not responding,3,1,2
+Mouse,7,battery issue,no issue,1,7,2
+Headphones,18,battery issue,no issue,3,2,7
+Mouse,13,physical damage,no issue,5,4,9
+Laptop,17,no issue,lagging,1,9,10
+Keyboard,5,no issue,not responding,1,2,1
+Laptop,8,no issue,lagging,8,3,10
+Keyboard,10,physical damage,lagging,7,10,7
+Keyboard,12,battery issue,not responding,6,7,9
+Headphones,19,physical damage,lagging,3,4,8
+Keyboard,1,no issue,no issue,7,5,2
+Keyboard,9,no issue,no issue,8,3,5
+Headphones,10,physical damage,no issue,3,1,6
+Headphones,6,no issue,not responding,9,8,2
+Laptop,20,no issue,lagging,10,4,7
+Laptop,11,no issue,lagging,8,6,8
+Desktop,14,physical damage,not responding,1,9,7
+Desktop,20,battery issue,lagging,3,6,5
+Mouse,11,battery issue,no issue,6,6,8
+Keyboard,7,battery issue,no issue,1,6,7
+Keyboard,9,no issue,no issue,10,6,10
+Desktop,8,no issue,lagging,5,6,4
+Laptop,18,overheating,not responding,8,10,9
+Desktop,12,overheating,not responding,1,6,1
+Headphones,16,no issue,not responding,9,1,4
+Keyboard,10,battery issue,lagging,5,1,9
+Headphones,14,no issue,lagging,4,10,9
+Headphones,3,physical damage,no issue,8,5,4
+Mouse,13,no issue,lagging,6,7,4
+Keyboard,2,no issue,lagging,8,1,10
+Mouse,19,physical damage,no issue,1,6,2
+Headphones,7,physical damage,no issue,8,7,9
+Keyboard,17,battery issue,no issue,6,8,1
+Keyboard,15,no issue,not responding,9,9,1
+Headphones,15,physical damage,not responding,5,4,4
+Headphones,9,physical damage,lagging,6,2,10
+Laptop,9,overheating,not responding,2,1,9
+Headphones,9,no issue,lagging,7,8,9
+Desktop,6,physical damage,not responding,10,5,6
+Keyboard,2,physical damage,not responding,2,8,2
+Mouse,2,physical damage,no issue,5,4,10
+Keyboard,19,battery issue,no issue,7,1,3
+Laptop,15,no issue,not responding,10,3,8
+Laptop,7,battery issue,no issue,7,9,7
+Laptop,6,no issue,lagging,10,3,4
+Desktop,2,no issue,lagging,1,5,4
+Desktop,14,no issue,not responding,3,6,7
+Mouse,2,battery issue,lagging,10,10,9
+Laptop,18,no issue,lagging,5,8,6
+Mouse,3,battery issue,no issue,7,6,10
+Desktop,5,overheating,lagging,9,5,5
+Desktop,16,no issue,lagging,4,7,5
+Laptop,18,no issue,not responding,3,1,6
+Desktop,10,no issue,lagging,1,5,6
+Headphones,13,no issue,no issue,1,6,4
+Headphones,7,physical damage,not responding,9,3,5
+Keyboard,16,physical damage,not responding,8,4,5
+Headphones,11,no issue,lagging,1,3,4
+Keyboard,18,battery issue,lagging,5,7,4
+Mouse,12,physical damage,no issue,1,6,1
+Keyboard,17,no issue,no issue,9,6,6
+Headphones,4,no issue,lagging,6,1,1
+Keyboard,19,physical damage,no issue,3,7,3
+Laptop,17,overheating,no issue,10,3,7
+Desktop,11,physical damage,no issue,2,10,4
+Headphones,9,battery issue,lagging,3,7,4
+Laptop,15,no issue,lagging,6,1,5
+Laptop,10,no issue,lagging,3,4,1
+Laptop,15,no issue,not responding,2,9,10
+Desktop,4,overheating,lagging,8,5,8
+Headphones,4,physical damage,no issue,5,7,7
+Headphones,5,battery issue,no issue,4,9,7
+Keyboard,12,no issue,not responding,1,1,9
+Headphones,7,no issue,not responding,8,2,2
+Laptop,10,no issue,not responding,6,5,1
+Mouse,11,no issue,lagging,5,8,7
+Keyboard,6,physical damage,no issue,8,6,2
+Desktop,10,battery issue,no issue,4,8,2
+Laptop,7,no issue,not responding,2,8,10
+Desktop,8,physical damage,not responding,2,8,9
+Mouse,13,no issue,not responding,3,4,10
+Mouse,18,no issue,lagging,9,8,10
+Mouse,6,physical damage,not responding,7,5,7
+Laptop,4,overheating,no issue,10,1,9
+Desktop,15,physical damage,not responding,5,1,6
+Keyboard,15,no issue,not responding,6,2,10
+Mouse,18,no issue,lagging,4,9,5
+Headphones,5,physical damage,no issue,5,10,6
+Mouse,10,battery issue,no issue,1,7,2
+Mouse,4,battery issue,no issue,4,7,2
+Mouse,16,battery issue,no issue,3,5,7
+Keyboard,18,no issue,not responding,4,6,9
+Desktop,5,no issue,lagging,7,2,6
+Mouse,19,no issue,lagging,9,10,4
+Desktop,18,overheating,lagging,10,4,9
+Laptop,14,no issue,lagging,2,7,6
+Desktop,10,overheating,no issue,6,2,4
+Desktop,4,no issue,lagging,8,2,5
+Laptop,2,battery issue,not responding,8,9,6
+Desktop,15,no issue,lagging,4,3,1
+Headphones,20,no issue,no issue,10,10,2
+Headphones,19,no issue,not responding,6,10,4
+Keyboard,6,physical damage,no issue,3,1,10
+Headphones,6,no issue,lagging,7,9,8
+Mouse,13,no issue,no issue,6,2,8
+Laptop,17,physical damage,not responding,1,7,6
+Desktop,19,overheating,lagging,7,8,3
+Keyboard,3,no issue,not responding,9,1,2
+Keyboard,17,no issue,not responding,8,7,8
+Laptop,3,no issue,not responding,4,6,2
+Headphones,14,physical damage,lagging,9,10,6
+Keyboard,11,no issue,lagging,9,10,7
+Desktop,1,no issue,lagging,10,8,6
+Headphones,5,no issue,not responding,5,1,1
+Keyboard,1,battery issue,not responding,10,8,2
+Mouse,20,physical damage,no issue,7,4,2
+Mouse,16,no issue,lagging,4,5,4
+Keyboard,16,no issue,no issue,4,1,8
+Keyboard,9,no issue,no issue,5,10,8
+Laptop,4,overheating,not responding,3,6,9
+Mouse,12,battery issue,not responding,2,10,10
+Mouse,6,battery issue,no issue,4,3,7
+Desktop,16,battery issue,no issue,7,3,4
+Keyboard,8,no issue,not responding,10,6,4
+Laptop,4,no issue,not responding,5,2,3
+Mouse,18,no issue,no issue,3,6,6
+Laptop,10,no issue,not responding,10,5,5
+Mouse,12,no issue,lagging,8,7,5
+Laptop,19,physical damage,lagging,3,6,9
+Headphones,18,battery issue,not responding,6,8,4
+Laptop,2,overheating,no issue,10,4,3
+Keyboard,10,no issue,lagging,4,9,4
+Mouse,14,physical damage,no issue,2,10,9
+Laptop,8,no issue,not responding,3,9,5
+Laptop,1,no issue,not responding,8,10,3
+Keyboard,13,battery issue,no issue,1,8,7
+Desktop,10,physical damage,not responding,9,7,2
+Keyboard,5,battery issue,no issue,8,6,9
+Laptop,1,overheating,no issue,5,8,1
+Desktop,20,no issue,not responding,4,10,3
+Laptop,12,no issue,lagging,10,9,8
+Desktop,16,physical damage,no issue,10,1,10
+Desktop,2,no issue,not responding,7,10,7
+Headphones,1,no issue,no issue,7,3,8
+Laptop,1,battery issue,no issue,7,3,8
+Desktop,9,overheating,not responding,3,4,2
+Laptop,7,battery issue,no issue,7,3,7
+Laptop,16,overheating,lagging,8,9,7
+Headphones,4,no issue,not responding,10,5,10
+Keyboard,4,battery issue,no issue,4,9,4
+Laptop,19,physical damage,no issue,2,3,4
+Headphones,20,battery issue,lagging,10,2,6
+Headphones,12,physical damage,no issue,9,4,7
+Keyboard,11,no issue,lagging,10,2,10
+Mouse,15,no issue,not responding,3,8,3
+Headphones,10,no issue,lagging,3,4,4
+Mouse,6,no issue,not responding,8,1,3
+Keyboard,12,no issue,no issue,6,8,7
+Desktop,6,no issue,lagging,9,4,3
+Keyboard,2,physical damage,lagging,2,1,10
+Headphones,12,no issue,not responding,6,2,4
+Laptop,17,no issue,lagging,2,6,3
+Desktop,7,battery issue,no issue,10,5,3
+Keyboard,2,physical damage,no issue,8,2,10
+Laptop,4,no issue,lagging,7,5,3
+Mouse,19,physical damage,lagging,7,6,2
+Keyboard,7,no issue,not responding,1,5,10
+Laptop,18,battery issue,not responding,5,3,1
+Keyboard,10,no issue,not responding,5,9,5
+Mouse,8,no issue,not responding,7,6,9
+Laptop,15,battery issue,no issue,4,9,7
+Headphones,7,battery issue,no issue,1,9,4
+Laptop,10,no issue,not responding,3,4,2
+Headphones,12,no issue,lagging,3,10,7
+Laptop,20,battery issue,no issue,4,7,6
+Mouse,6,no issue,lagging,7,8,8
+Mouse,4,no issue,not responding,9,6,1
+Mouse,6,battery issue,not responding,10,1,3
+Desktop,13,no issue,not responding,6,1,4
+Desktop,1,no issue,lagging,10,10,7
+Laptop,7,overheating,no issue,4,5,6
+Laptop,7,overheating,no issue,6,9,4
+Keyboard,19,battery issue,not responding,2,7,10
+Laptop,17,no issue,lagging,9,7,3
+Keyboard,18,no issue,lagging,3,5,4
+Mouse,12,physical damage,lagging,5,9,9
+Keyboard,11,physical damage,lagging,2,1,8
+Mouse,19,battery issue,not responding,5,10,7
+Laptop,6,no issue,lagging,7,1,7
+Laptop,19,no issue,not responding,6,3,5
+Keyboard,3,physical damage,no issue,7,1,8
+Keyboard,5,physical damage,not responding,5,1,6
+Desktop,18,overheating,not responding,9,2,5
+Headphones,5,physical damage,no issue,6,7,10
+Mouse,13,battery issue,no issue,5,6,6
+Headphones,9,no issue,lagging,5,3,7
+Keyboard,5,physical damage,no issue,2,4,6
+Desktop,20,battery issue,lagging,3,5,7
+Keyboard,19,physical damage,no issue,10,2,7
+Keyboard,20,no issue,lagging,1,3,1
+Keyboard,20,physical damage,no issue,5,7,10
+Mouse,15,no issue,lagging,3,9,10
+Desktop,5,no issue,not responding,1,5,5
+Headphones,17,no issue,no issue,5,8,9
+Mouse,1,physical damage,lagging,4,2,2
+Headphones,9,physical damage,lagging,7,10,5
+Desktop,6,physical damage,lagging,6,1,3
+Desktop,7,no issue,lagging,1,10,3
+Laptop,19,no issue,lagging,6,6,4
+Headphones,1,no issue,no issue,4,6,8
+Desktop,4,physical damage,not responding,4,3,2
+Keyboard,5,battery issue,no issue,3,4,7
+Mouse,18,no issue,no issue,6,10,3
+Keyboard,16,no issue,lagging,5,8,8
+Laptop,16,physical damage,no issue,2,2,10
+Desktop,3,no issue,not responding,1,4,8
+Laptop,13,battery issue,no issue,4,5,4
+Desktop,8,physical damage,not responding,1,10,4
+Keyboard,20,no issue,lagging,10,8,10
+Laptop,16,physical damage,no issue,1,9,5
+Desktop,3,no issue,lagging,6,6,10
+Laptop,15,no issue,lagging,9,1,2
+Laptop,14,physical damage,not responding,9,4,1
+Headphones,3,battery issue,no issue,8,2,9
+Headphones,4,no issue,not responding,1,6,2
+Headphones,19,battery issue,no issue,1,1,2
+Laptop,19,overheating,no issue,7,8,4
+Keyboard,15,no issue,not responding,10,1,5
+Keyboard,10,physical damage,lagging,8,8,7
+Keyboard,9,no issue,lagging,2,8,10
+Laptop,14,no issue,lagging,1,2,9
+Desktop,8,no issue,lagging,9,7,2
+Headphones,15,no issue,not responding,3,4,4
+Laptop,20,no issue,not responding,10,7,8
+Desktop,14,physical damage,not responding,8,7,7
+Keyboard,3,physical damage,no issue,3,5,10
+Laptop,19,overheating,not responding,1,6,8
+Desktop,7,no issue,not responding,6,2,1
+Laptop,1,no issue,lagging,4,5,8
+Laptop,11,no issue,not responding,9,8,7
+Mouse,11,physical damage,no issue,8,5,1
+Laptop,8,battery issue,no issue,8,9,8
+Keyboard,16,battery issue,no issue,8,9,9
+Mouse,5,no issue,no issue,5,1,6
+Laptop,2,no issue,lagging,4,10,5
+Mouse,4,no issue,not responding,6,1,7
+Desktop,5,physical damage,no issue,10,6,9
+Laptop,13,battery issue,no issue,3,8,1
+Desktop,19,battery issue,no issue,9,10,10
+Laptop,10,physical damage,no issue,10,3,2
+Keyboard,12,no issue,lagging,1,1,8
+Headphones,7,no issue,lagging,10,8,6
+Desktop,19,no issue,not responding,3,8,2
+Mouse,20,physical damage,no issue,2,8,8
+Laptop,17,overheating,lagging,2,4,4
+Headphones,14,no issue,not responding,2,5,1
+Desktop,7,no issue,lagging,5,5,3
+Headphones,8,physical damage,no issue,8,7,3
+Keyboard,14,battery issue,no issue,7,2,8
+Desktop,10,no issue,not responding,9,1,3
+Headphones,12,no issue,lagging,6,3,1
+Mouse,12,no issue,not responding,1,8,8
+Keyboard,8,no issue,no issue,7,4,2
+Desktop,19,overheating,no issue,7,4,1
+Mouse,16,physical damage,not responding,6,6,10
+Laptop,9,no issue,lagging,4,9,10
+Mouse,11,physical damage,lagging,7,1,4
+Keyboard,10,physical damage,no issue,10,1,6
+Headphones,14,no issue,no issue,6,4,6
+Mouse,13,physical damage,no issue,6,4,2
+Headphones,19,physical damage,no issue,6,2,2
+Laptop,11,battery issue,no issue,1,6,2
+Desktop,20,no issue,lagging,4,5,10
+Laptop,5,no issue,lagging,8,1,2
+Keyboard,19,physical damage,no issue,6,9,1
+Mouse,15,no issue,no issue,7,1,8
+Laptop,19,overheating,no issue,10,7,2
+Keyboard,2,no issue,lagging,5,6,4
+Desktop,18,no issue,not responding,1,10,4
+Laptop,5,battery issue,lagging,7,6,10
+Headphones,11,no issue,not responding,8,10,6
+Mouse,6,physical damage,no issue,8,1,6
+Keyboard,1,no issue,lagging,6,10,4
+Headphones,1,no issue,lagging,10,8,2
+Desktop,8,overheating,lagging,10,7,4
+Mouse,19,no issue,lagging,7,4,9
+Keyboard,10,no issue,lagging,9,2,8
+Headphones,13,battery issue,not responding,5,7,10
+Desktop,18,physical damage,no issue,5,4,1
+Headphones,7,no issue,no issue,8,3,9
+Desktop,10,no issue,not responding,9,5,7
+Desktop,11,no issue,not responding,4,4,7
+Keyboard,11,physical damage,no issue,1,6,10
+Laptop,16,battery issue,no issue,10,5,7
+Keyboard,18,no issue,not responding,7,6,7
+Mouse,2,battery issue,no issue,7,4,3
+Laptop,11,no issue,lagging,2,5,2
+Laptop,2,battery issue,not responding,7,1,10
+Laptop,10,no issue,lagging,8,6,2
+Mouse,16,no issue,no issue,7,1,7
+Laptop,6,no issue,not responding,7,7,8
+Keyboard,13,battery issue,no issue,6,9,3
+Mouse,17,no issue,not responding,7,7,3
+Laptop,16,overheating,not responding,8,1,7
+Mouse,11,no issue,no issue,10,1,2
+Keyboard,4,no issue,not responding,3,8,7
+Mouse,20,no issue,no issue,2,7,6
+Desktop,7,no issue,lagging,6,8,4
+Laptop,12,battery issue,no issue,4,3,10
+Laptop,7,physical damage,lagging,10,9,2
+Laptop,2,physical damage,no issue,7,8,2
+Mouse,6,battery issue,no issue,9,5,3
+Headphones,19,battery issue,not responding,2,3,2
+Laptop,11,no issue,not responding,1,1,5
+Mouse,9,battery issue,no issue,6,1,1
+Laptop,7,overheating,not responding,1,8,5
+Desktop,18,battery issue,no issue,1,8,10
+Laptop,7,no issue,not responding,5,10,1
+Headphones,6,physical damage,lagging,7,5,10
+Mouse,7,no issue,no issue,7,2,1
+Mouse,3,no issue,not responding,10,1,5
+Headphones,9,no issue,lagging,10,4,4
+Headphones,13,no issue,no issue,4,7,8
+Laptop,8,battery issue,not responding,7,4,8
+Headphones,12,battery issue,not responding,10,7,5
+Laptop,13,overheating,no issue,6,10,8
+Mouse,6,no issue,not responding,1,8,7
+Mouse,19,no issue,lagging,3,2,4
+Desktop,6,no issue,lagging,1,9,4
+Laptop,19,no issue,not responding,5,8,7
+Headphones,19,battery issue,lagging,10,4,4
+Laptop,3,physical damage,no issue,8,7,3
+Keyboard,5,physical damage,no issue,4,3,5
+Headphones,19,battery issue,no issue,3,6,9
+Laptop,15,no issue,not responding,1,10,6
+Headphones,16,physical damage,not responding,6,8,3
+Laptop,11,battery issue,lagging,2,6,9
+Desktop,7,no issue,lagging,8,10,2
+Desktop,10,physical damage,no issue,10,6,3
+Laptop,18,physical damage,not responding,9,5,5
+Mouse,4,physical damage,no issue,4,5,7
+Headphones,12,physical damage,not responding,3,10,8
+Keyboard,2,no issue,no issue,4,8,9
+Keyboard,12,physical damage,no issue,3,10,9
+Laptop,3,battery issue,no issue,1,2,8
+Headphones,5,no issue,no issue,4,2,10
+Mouse,6,no issue,not responding,5,10,7
+Mouse,18,no issue,lagging,10,8,7
+Headphones,7,no issue,no issue,8,6,8
+Desktop,17,no issue,lagging,2,9,10
+Desktop,3,no issue,not responding,10,2,9
+Laptop,17,physical damage,not responding,6,5,2
+Desktop,3,overheating,no issue,6,1,10
+Mouse,16,physical damage,lagging,8,6,6
+Desktop,18,battery issue,not responding,10,2,8
+Headphones,9,no issue,not responding,2,10,7
+Desktop,6,physical damage,lagging,1,5,10
+Mouse,10,physical damage,no issue,6,6,6
+Mouse,20,no issue,not responding,6,8,2
+Desktop,13,no issue,not responding,5,3,7
+Desktop,6,physical damage,no issue,2,2,3
+Laptop,11,no issue,lagging,9,8,5
+Mouse,13,physical damage,not responding,9,8,9
+Laptop,9,no issue,not responding,5,1,9
+Mouse,17,no issue,not responding,7,4,6
+Headphones,18,battery issue,no issue,2,5,5
+Desktop,6,no issue,lagging,10,5,2
+Mouse,8,no issue,lagging,10,2,2
+Keyboard,7,no issue,no issue,10,9,4
+Desktop,4,no issue,not responding,5,4,10
+Mouse,14,no issue,not responding,5,1,1
+Headphones,14,no issue,lagging,6,7,3
+Keyboard,18,no issue,lagging,1,8,7
+Laptop,7,battery issue,no issue,6,2,3
+Desktop,3,no issue,not responding,10,10,8
+Desktop,12,physical damage,lagging,10,10,6
+Keyboard,19,physical damage,not responding,10,1,9
+Mouse,1,physical damage,no issue,8,4,4
+Desktop,17,battery issue,lagging,6,5,5
+Mouse,19,no issue,not responding,6,5,4
+Mouse,4,no issue,lagging,2,6,8
+Desktop,12,physical damage,no issue,2,2,4
+Headphones,3,battery issue,no issue,6,3,10
